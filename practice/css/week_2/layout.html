@@ -5,6 +5,10 @@
   <meta charset="utf-8">
 
   <title>Layout</title>
+
+
+  <link rel="stylesheet" href="myspecialcss.css" />
+  <link rel="stylesheet" href="reset.css" />
   
   <style>
 
@@ -35,6 +39,21 @@ color: darkgray;
 
 #footer p{
     color:darkred;
+}
+
+#footer .footer-columns {
+
+    width: 300px;
+    height: 200px;
+    background-color: darkorchid;
+    display: inline-block;
+    border: solid 2px red;
+    margin: 2px;
+
+}
+
+
+
 }
 
 #footer h6 {
@@ -154,13 +173,14 @@ color: darkgray;
     </div> </div>
 
 
-    <!--HTML5 version is <header></header>-->
+    <!--HTML5 version is <footer></footer>-->
     <div id="footer"> 
-        <p>&copy; 2020 <span> Carlos </span> Alvarado</p>
-        <h6> This is really tiny text as well!</h6>
-        
-        <div> 
-            <h6> This is really tiny text as well!</h6>
+        <div class= "footer-columns" id="footer-left">
+        </div>
+
+        <div class= "footer-columns" id="footer-center">
+        </div>
+        <div class= "footer-columns" id="footer-right">
         </div>
     </div> 
    

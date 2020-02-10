@@ -1,0 +1,40 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>figure out vertical spacing</title>
+  
+  <style>
+  
+  #comments-container p
+    {
+        margin-top:1.5em;
+    }
+
+</style>
+  
+</head>
+
+
+
+<body>
+ <div id="comment_content">
+    <div class="comments-container">
+        Line 1
+        
+        
+        Line 2
+        
+        Line 3
+        
+        Line 4
+            
+    </div>
+</div>
+ 
+
+
+</body>
+</html>

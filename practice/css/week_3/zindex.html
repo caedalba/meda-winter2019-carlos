@@ -1,0 +1,66 @@
+
+<!doctype html>
+
+<html lang="en">
+<head>
+    
+<meta charset="utf-8">
+
+
+
+
+  <title>Z-Index Practice</title>
+  <style>
+      body {
+          margin: 0;
+      }
+
+div {
+    width: 200px
+    height: 200px;
+    margin:0px;
+}
+
+#redbox {
+    background-color: red;
+    position: absolute;
+    z-index: -1;
+    top: 100px;
+    left: 100px;
+}
+
+#greenbox {
+
+    background-color: green;
+    position: absolute;
+}
+
+#bluebox {
+
+    background-color: blue;
+    position: absolute;
+    z-index: -2;
+    top: 100px;
+    left: 100px;
+}
+
+
+     </style
+
+
+</head>
+
+<body>
+
+  <div id="redbox">
+  </div>
+
+  <div id="greenbox">
+  </div>
+
+  <div id="bluebox">
+  </div>
+
+
+</body>
+</html>

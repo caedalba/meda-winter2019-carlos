@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+
+<style>
+
+table {
+  font-family: "Monaco";
+  width: 650px;
+  font-size: 12px;
+  font-weight:
+}
+
+thead tr th {
+  background-color: aquamarine;
+  color: white;
+  height: 35px;
+  font-weight: bold;
+  
+}
+
+
+thead tr th {
+  background-color: teal;
+  color: white;
+  height: 
+  font-weight: bold;
+  
+}
+tbody tr {
+  height: 25px;
+  
+}
+thread tr: first-child (1) th {
+  
+  background-color: grey;
+  
+}
+
+
+</style>
+  
+  
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th> AMD Power/ Frecuency Comparison </th>
+      </tr>
+      <tr>
+        <th>Anan Tech</th>
+         <th> Cores</th>
+         <th> CPU TDP</th>
+         <th> 1-Core Power</th>
+         <th> 1-Core Freq</th>
+         <th> Full Loud Power code</th>
+         <th>full Loud Freq </th>
+         
+        </thead>
+    
+    <tbody>
+      <tr>
+      <th>3990x</th>
+      <td>64</td>
+      <td>280</td>
+      <td>&nbsp;</td>
+      <td>10.4 W</td>
+      <td>3.0 w</td>
+      <td>3450</td>
+    </tr>
+      
+      <tr>
+        <th>3970x </td>
+        <td> 32</td>
+        <td> 280w</td>
+        <td>&nbsp; </td>
+        <td> 13.0w</td>
+        <td> 4310</td>
+        <td> 7.0 w</td>
+        <td> 3810</td>
+      </tr>
+  
+  <tr>
+    <th>3960x</th>
+    <td>24</td>
+    <td>280 w</td>
+    <td>&nbsp;</td>
+    <td>13.5w</td>
+    <td>4400</td>
+    <td>8.6w</td>
+    <td>3950</td>
+    
+  </tr>
+  
+  <tr>
+    <th>3950x</th>
+    <td>16</td>
+    <td>105 w</td>
+    <td>&nbsp;</td>
+    <td>18.3 w</td>
+    <td>4450</td>
+    <td>7.1 w</td>
+    <td> 38.5</td>
+    
+  </tr>
+  
+        
+    </tbody>
+
+</body>
+</html>
