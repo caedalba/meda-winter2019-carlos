@@ -1,0 +1,70 @@
+Home page/About me Page - Page Content
+---Page Content Start--
+
+Hey Im Carlos Alvarado, a web designer based in San Francisco
+Let’s connect 
+About me
+Lover of adventure, coffee and good times with my family and friends. philanthropist and designer, two of my most notable qualities.
+
+---Page Content End---
+
+My Projects Page - Page Content 
+
+---Page Content Start---
+
+University of Carabobo, Carabobo, Venezuela
+Public university of Venezuela established in 1892 and welcoming 65K students a year
+Performed analysis of processes involved in the National Association of Libraries Directors, networks and information services of the academic and research sectors using direct observation, unstructured interviews, and document reviews; interpreted results and designed system life cycle based on methodology of the National Network of Integration and Free Software (MeRinde); created an efficient and secure structure for handling information using MySQL database handler
+Improved the efficiency of services provided to students by developing an automated system under web environment (PHP) using unified modeling language diagrams; achieved 70% system utilization as measured by sample of students; provided necessary tools for further adaptation by the remaining 30% of the sample. 
+
+Inspiring! 
+
+For a long time I looked for a special way to express myself, A way of telling my story, that's why I decided to create this Blog.  If you are interested in creating your blog here I share a link that will give you 3 great reasons to do so.
+
+https://www.google.com/amp/s/www.forbes.com/sites/laurencebradford/2016/09/27/3-reasons-why-you-need-a-website/amp/
+
+My life in San Francisco
+
+As most of you know, I live in San Francisco and Inspiring!  For a long time I looked for a special way to express myself, a way of telling my story, that's why I decided to create this blog.  If you are interested in creating your blog here, I share a link that will give you 3 excellent reasons to do so.
+
+https://www.google.com/amp/s/www.forbes.com/sites/laurencebradford/2016/09/27/3-reasons-why-you-need-a-website/amp/
+
+
+Angel Falls- Venezuela
+
+One of the best experiences in my life, it is famous for being one of the four most beautiful waterfalls in the world, and as the tallest uninterrupted waterfalls in the world, the place is full of natural wealth;  surrounded by rivers, flora, fauna, jungles, mountains and tepuyes;  The landscape is surreal.  To get to the place you must go canoeing for 5 hours and walk two more hours, Katherine's company made it seem like a short time.
+
+The falls got their name from Angel Falls after an American aviator became the first person to fly over the falls in the mid-20th century.
+
+It is an easy trip to organize, I recommend you check the following links if you decide to visit this beautiful place:
+
+https://salto-angel.com/es/alojamiento/279-campamento-canaima
+
+https://salto-angel.com/es/alojamiento/279-campamento-canaima
+
+---Page Content End---
+
+Contact me!--Page Content
+
+--Page Content Start--
+
+Thank you for your interest! 
+What can we do for you or your company?
+Let’s connect!
+Name- Carlos Alvarado
+Phone Number- 786-000-0000
+Email Caeda@gmail.com
+Address 88 Mission St. San Francisco CA. 94107
+
+---Page Content End---
+
+Color: Background: Lavanda 
+       Body text: Black
+       Header text: Orange
+       Link text: Blue
+
+
+
+
+
+
