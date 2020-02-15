@@ -1,4 +1,5 @@
-Home page/About me Page - Page Content
+HOME PAGE/ABOUT ME PAGE - Page Content
+
 ---Page Content Start--
 
 Hey Im Carlos Alvarado, a web designer based in San Francisco
@@ -8,7 +9,7 @@ Lover of adventure, coffee and good times with my family and friends. philanthro
 
 ---Page Content End---
 
-My Projects Page - Page Content 
+PROJECTS PAGE - Page Content 
 
 ---Page Content Start---
 
@@ -44,7 +45,7 @@ https://salto-angel.com/es/alojamiento/279-campamento-canaima
 
 ---Page Content End---
 
-Contact me!--Page Content
+CONTACT PAGE-- Page Content
 
 --Page Content Start--
 
@@ -60,8 +61,70 @@ Address 88 Mission St. San Francisco CA. 94107
 
 Color: Background: Lavanda 
        Body text: Black
-       Header text: Orange
+       Header text: Black
        Link text: Blue
+       Footer Text: Black
+Link Text Color keep Blue for all four states: visited, not visited, hover, and active.
+
+Font Family: Helvetica
+
+
+EXAMPLES PORTFOLIOS WEBSITES
+
+https://www.enriquedans.com/
+
+I like the content about the research and opinion of information systems and technologies
+I did not like to see an error in one of his articles (I could see part of his code)
+
+-Header-
+Logo-Name-Archivos-Temas-Contactos- Acerca de- Social Media links
+
+-Main-
+
+Content and images 
+
+-Footer-
+
+Logo- Links (Articulos, Temas, Articulos antiguos, Enlaces de Penterest, etc.)
+
+http://workdiary.de/
+I liked the originality of the design and the image really drew me in. I also liked the animation of the elements
+on the page. I didn't like how when I used the cursor the design became complicated and confusing. 
+
+-Header-
+
+Name, content.
+
+-Main-
+
+content
+
+-Footer-
+
+Links (Email, Social Media)
+
+
+http://bobgalmarini.com/
+
+I like the simplicity and informality of the design.  It strikes a tone in the content that is warm, casual and inviting.
+However, the color temperature doesnt match the feeling he's trying to convey in the images and the text.  It's too cool.
+He should have chosen a warmer palette.
+
+-Header-
+
+Logo- Name- (Links: Portfolio, About Bob, Get in Touch)
+
+-Main-
+
+Background images, content, Meet Bob. Links (9 images). Fun projects with fun people.
+
+-Footer-
+
+Bacground images, content, Meet Bob, copyright, social media links.
+
+
+
+
 
 
 
